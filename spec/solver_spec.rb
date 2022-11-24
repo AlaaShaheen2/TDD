@@ -19,7 +19,6 @@ describe Solver do
   describe 'This method to reverse words' do
     it 'returns the reverse of a word' do
       expect(solver.reverse('Alaa')).to eql('aalA')
-
     end
   end
 
