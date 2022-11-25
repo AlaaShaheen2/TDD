@@ -1,4 +1,4 @@
-require_relative '../solver'
+require 'spec_helper'
 describe Solver do
   let(:solver) { Solver.new }
 
